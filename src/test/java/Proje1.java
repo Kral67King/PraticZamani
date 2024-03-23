@@ -3,6 +3,6 @@ public class Proje1 {
         System.out.println(" code 1");
         //Adding second
         System.out.println("user 2 code " );
+        System.out.println("user1 trying to add something");
     }
-
 }
