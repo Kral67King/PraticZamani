@@ -6,5 +6,6 @@ public class Project2 {
         System.out.println(" abi kralsiniz" );
         //super
         //harika
+        //new line
     }
 }
