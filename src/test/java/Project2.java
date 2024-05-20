@@ -4,5 +4,6 @@ public class Project2 {
         //adding
         //yes
         System.out.println(" abi kralsiniz" );
+        //super
     }
 }
